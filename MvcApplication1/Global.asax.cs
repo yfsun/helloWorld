@@ -21,4 +21,4 @@ namespace MvcApplication1
             DurandalBundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
-}
+}s
